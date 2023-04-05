@@ -26,20 +26,8 @@
     background-position-y: -50px;
 }
 
-/* .p2{
-    position:relative;
-    top:380px;
-    left:18%;
-    color:#ffffff;
-    transition: font-weight 250ms ease-in-out;
-    font-weight: 500;
-    font-size: 12ch;
-    padding: 15px 50px;
-    margin: auto;
-} */
-
 body{
-    background-color: grey;
+    background-color: rgb(133, 131, 131);
     overflow: hidden;
     margin: 0 auto;
     position: relative;
