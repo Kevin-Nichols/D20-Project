@@ -38,6 +38,7 @@ body{
 .die{
     height: 200px;
     width: 200px;
+    border-style: none;
     position: relative;
     top: 280px;
     /* left: 1%; */
